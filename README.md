@@ -1,5 +1,11 @@
 # SmartRoute — Intelligent Route Planning and Algorithm Analysis System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://ayushdudam.github.io/smartroute/)
+[![GitHub Repo](https://img.shields.io/badge/Repository-Ayushdudam%2Fsmartroute-black?style=for-the-badge&logo=github)](https://github.com/Ayushdudam/smartroute)
+
+🌐 **Live URL:** [https://ayushdudam.github.io/smartroute/](https://ayushdudam.github.io/smartroute/)  
+📁 **Repository:** [https://github.com/Ayushdudam/smartroute](https://github.com/Ayushdudam/smartroute)
+
 > **Simulated Road Network Disclaimer:**  
 > *Simulated road network for educational purposes. Distances are illustrative weights, not verified real-world distances or driving directions.*
 
